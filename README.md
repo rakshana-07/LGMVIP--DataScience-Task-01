@@ -56,4 +56,3 @@ Feel free to fork this repository, make improvements, and adapt the code to your
 
 ---
 
-Please replace "your-username" with your actual GitHub username in the repository URL. You can also modify the structure and content of the README file to better suit your preferences and the specific details of your project.
