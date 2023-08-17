@@ -28,10 +28,9 @@ pip install numpy pandas scikit-learn matplotlib jupyter
 ## Usage
 
 1. Clone this repository:
-   https://github.com/rakshana-07/LGMVIP--DataScience-Task-01/
 
 ```
-
+https://github.com/rakshana-07/LGMVIP--DataScience-Task-01/
 ```
 
 2. Download the Iris dataset and place it in the `data` directory.
