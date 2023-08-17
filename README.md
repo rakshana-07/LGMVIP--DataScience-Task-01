@@ -28,6 +28,7 @@ pip install numpy pandas scikit-learn matplotlib jupyter
 ## Usage
 
 1. Clone this repository:
+   https://github.com/rakshana-07/LGMVIP--DataScience-Task-01/
 
 ```
 
@@ -41,7 +42,7 @@ pip install numpy pandas scikit-learn matplotlib jupyter
 
 ```
 python iris_classification.py
-https://github.com/rakshana-07/LGMVIP--DataScience-Task-01/
+
 ```
 
 ## Results
